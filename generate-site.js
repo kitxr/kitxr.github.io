@@ -117,7 +117,7 @@ img { max-width: 100%; height: auto; display: block; }
   font-family: 'DM Sans', sans-serif; font-size: 1.1rem; font-weight: 700;
   color: var(--accent); letter-spacing: -0.02em; line-height: 1.2;
 }
-.logo-sub { font-size: .68rem; color: var(--text-muted); line-height: 1; margin-top: -1px; }
+.logo-sub { font-size: .68rem; color: var(--text-muted); line-height: 1; margin-top: 1px; }
 .logo-sub a { color: var(--text-muted); }
 .logo-sub a:hover { color: var(--accent); }
 
